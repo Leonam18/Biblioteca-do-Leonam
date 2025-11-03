@@ -1,6 +1,6 @@
 -- CREATE DATABASE BibliotecaDoLeonam;
 
--- \c BibliotecaDoLeonam;
+-- \c bibliotecadoleonam;
 
 CREATE TABLE usuarios (
     id SERIAL PRIMARY KEY,
